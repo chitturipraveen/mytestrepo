@@ -1,2 +1,3 @@
 My second text file
 Updated another line to test the branching
+Fixed the hotfix issue
